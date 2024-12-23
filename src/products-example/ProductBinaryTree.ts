@@ -1,5 +1,5 @@
-import { Product } from "./Product";
-import { ProductTreeNode } from "./ProductTreeNode";
+import { Product } from "./Product.js";
+import { ProductTreeNode } from "./ProductTreeNode.js";
 
 export class ProductBinaryTree {
 
