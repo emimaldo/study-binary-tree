@@ -28,5 +28,6 @@ describe('Maximum Depth', () => {
         let result: number = maximumDepth.getMaxDepth(root);
 
         expect(result).toBe(4);
+   
     });
 });
